@@ -33,4 +33,4 @@ Data Cleaning: Clean the data by:
 Merged tables to create a final dataset using Excel, python, Power BI, or any other tool of your choice to create your final data set and determine the top 5 content categories.
 ### Conclusion and Recommendations:
 This data analysis project, focused on content insights, which aligns with Social Buzz's goals. 
-[Image](https://github.com/Titilayo0/Data-Analysis/blob/main/Customer%20behaviour%20analysis/Top_5_visual.png?raw=true)
+![image alt](https://github.com/Titilayo0/Data-Analysis/blob/main/Customer%20behaviour%20analysis/Top_5_visual.png?raw=true)

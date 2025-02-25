@@ -1,4 +1,4 @@
-# Analysis
+# Project 1
 
 ## Data Analysis Business Case for Social Buzz
 ### Executive Summary:
@@ -11,7 +11,7 @@ Problem: An analysis of their content categories showing the top 5 categories wi
 •	Creating models to identify top-performing content categories.
 
 •	Presenting actionable insights.
-# Project 1
+
 ### Datasets for the project:
 •	Content dataset
 

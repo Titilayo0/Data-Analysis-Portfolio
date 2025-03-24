@@ -28,31 +28,22 @@ The Call Center Analysis Dashboard is designed to:
 
 The dataset includes:
 
-Call ID: Unique identifier for each call.
+| Feature                       | Description                                      |
+|--------------------------------|--------------------------------------------------|
+| Call ID                        | Unique identifier for each call                  |
+| Agent                          | The customer service representative handling the call |
+| Date & Time                    | Timestamp of when the call occurred              |
+| Topic                          | Subject of the customer inquiry                  |
+| Answered (Y/N)                 | Whether the call was answered                    |
+| Resolved                       | Indicates if the issue was resolved              |
+| Speed of Answer (Seconds)      | Time taken to answer the call                    |
+| AvgTalkDuration                | Average talk time per call                       |
+| Satisfaction Rating            | Customer feedback score                          |
+| Talk Duration                  | Total duration of the call                       |
+| Calls Answered & Unanswered    | Total count per agent                            |
+| Case Resolved & Unresolved     | Number of cases resolved vs. unresolved         |
+| Weekday                        | Day of the week for trend analysis              |
 
-Agent: The customer service representative handling the call.
-
-Date & Time: Timestamp of when the call occurred.
-
-Topic: Subject of the customer inquiry.
-
-Answered (Y/N): Whether the call was answered.
-
-Resolved: Indicates if the issue was resolved.
-
-Speed of Answer (Seconds): Time taken to answer the call.
-
-AvgTalkDuration: Average talk time per call.
-
-Satisfaction Rating: Customer feedback score.
-
-Talk Duration: Total duration of the call.
-
-Calls Answered & Unanswered: Total count per agent.
-
-Case Resolved & Unresolved: Number of cases resolved vs. unresolved.
-
-Weekday: Day of the week for trend analysis.
 
 ## Methodology
 

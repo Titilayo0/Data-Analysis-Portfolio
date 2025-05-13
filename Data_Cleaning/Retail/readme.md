@@ -1,5 +1,5 @@
 
-# 🧾 Retail_Record Dataset: Data Preparation Summary
+#  Retail_Record Dataset: Data Preparation Summary
 
 This project involves preparing and cleaning the `Retail_Record` dataset using Power Query to ensure it is consistent, accurate, and ready for analysis in Power BI.
 
